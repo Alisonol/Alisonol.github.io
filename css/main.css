@@ -1024,7 +1024,7 @@ label > input[type="checkbox"], label > input[type="radio"] {
 }
 
 .skill-bars li .progress {
-	background: #313131;
+	background: #616161;
 	position: relative;
 	height: 100%;
 }
