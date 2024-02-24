@@ -347,6 +347,13 @@ th:last-child, td:last-child {
 	overflow-x: auto;
 	-webkit-overflow-scrolling: touch;
 }
+#folio-wrapper .folio-item-cell h3.folio-title {
+    text-align: center !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
 
 /**
  * Spacing - (_document-setup.scss)  
@@ -1588,7 +1595,6 @@ header .logo a {
 		font-size: 2.4rem;
 	}
 }
-
 
 /** 
  * ===================================================================
